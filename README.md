@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Goyam02
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Pythn
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me on mail: goyamjain2702@gmail.com
 - 😄 Pronouns: HE/him
