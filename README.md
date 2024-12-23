@@ -23,9 +23,8 @@
 
 ---
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=goyam02&label=Profile%20Views&color=12&icon=0&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=goyam02&label=Profile%20Views&color=12&icon=0&pretty=false" />
 </a>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
