@@ -1,6 +1,51 @@
-# 💫 About Me:
-🔭 I’m currently working on developing an OTT platform.<br>👯 I’m looking to collaborate on software testing<br>🤝 I’m looking for help with developing a Machine learning model<br>🌱 I’m currently learning Swift<br>💬 Ask me about automation testing<br>⚡ Fun fact<br>- 📫 Reach me on mail: goyamjain02@gmail.com
+## 👋 Hey there! I’m Goyam Jain  
 
+🚀 **Tech Enthusiast | AI & ML Developer | Software Engineer**  
+
+💡 I have a passion for designing and developing innovative solutions, specializing in **AI, Machine Learning, and Web Development**. I enjoy building **scalable and efficient software** that solves real-world problems.  
+
+---
+
+### 🔭 Current Projects:  
+- **Amazon Clone** – A full-fledged e-commerce platform built with Flask, focusing on high-quality UI/UX and backend functionality.  
+- **AI-Powered Safe Route Generator for Women** – A startup project aimed at providing the safest routes for women using AI-based risk assessment.  
+
+---
+
+### 🏆 Completed Projects:  
+- **FlaskBlog** – A blog platform with CRUD operations, user authentication, database integration, and profile updates.  
+- **To-Do List App** – Task management with file handling.  
+- **Weather App** – Fetches live weather updates via API.  
+- **Expense Tracker** – Categorizes and summarizes expenses.  
+- **Simple Calculator** – Performs basic arithmetic with error handling.  
+- **Number Guessing Game** – Interactive game with hints.  
+- **Unit Converter** – Converts between various units.  
+- **Stream OTT Platform** – Front-end of an OTT platform.  
+
+---
+
+### 👯 Open to Collaborations:  
+- **Software Testing** – Looking to collaborate on automation and manual testing projects.  
+- **Machine Learning Models** – Seeking help and ideas for developing intelligent AI/ML solutions.  
+
+---
+
+### 🌱 Currently Learning:  
+- **Swift** – For iOS development.  
+- **Advanced C++ & C** – Deepening programming fundamentals.  
+
+---
+
+### 💬 Ask Me About:  
+- **Automation Testing**  
+- **AI & ML Development**  
+- **Web Development (Flask, Django, React, JavaScript)**  
+
+---
+
+### 📫 Connect with Me:  
+📩 **Email:** goyamjain02@gmail.com  
+📌 Let’s build something amazing together! 🚀  
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jgoyam02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/goyam02) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/goyamjain02) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:goyamjain02@gmail.com) 
