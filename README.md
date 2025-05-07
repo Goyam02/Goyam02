@@ -7,20 +7,22 @@
 ---
 
 ### 🔭 Current Projects:  
-- **Amazon Clone** – A full-fledged e-commerce platform built with Flask, focusing on high-quality UI/UX and backend functionality.  
+- **Book Recommendation System** – An LLM-powered book recommendation system using LangChain
+- **FinTech** - Provides users with insights into their financial health, spending trends, investment performance, and more, powered by AI-driven recommendations.
 - **AI-Powered Safe Route Generator for Women** – A startup project aimed at providing the safest routes for women using AI-based risk assessment.  
 
 ---
 
 ### 🏆 Completed Projects:  
-- **FlaskBlog** – A blog platform with CRUD operations, user authentication, database integration, and profile updates.  
+- **Amazon Clone** - Amazon Clone is a full-fledged e-commerce web application built using Flask, featuring user authentication, product management, cart functionality, and secure checkout. 
+- **FlaskBlog** – A blog platform with CRUD operations, user authentication, database integration, and profile updates.
+- **Stream OTT Platform** – A full-stack OTT platform inspired by Netflix, featuring user authentication, video streaming, content recommendations, and an integrated chatbot for basic user queries
 - **To-Do List App** – Task management with file handling.  
 - **Weather App** – Fetches live weather updates via API.  
 - **Expense Tracker** – Categorizes and summarizes expenses.  
 - **Simple Calculator** – Performs basic arithmetic with error handling.  
 - **Number Guessing Game** – Interactive game with hints.  
 - **Unit Converter** – Converts between various units.  
-- **Stream OTT Platform** – Front-end of an OTT platform.  
 
 ---
 
