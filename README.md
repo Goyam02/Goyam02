@@ -9,7 +9,8 @@
 ### 🔭 Current Projects:  
 - **Book Recommendation System** – An LLM-powered book recommendation system using LangChain
 - **FinTech** - Provides users with insights into their financial health, spending trends, investment performance, and more, powered by AI-driven recommendations.
-- **AI-Powered Safe Route Generator for Women** – A startup project aimed at providing the safest routes for women using AI-based risk assessment.  
+- **AI-Powered Safe Route Generator for Women** – A startup project aimed at providing the safest routes for women using AI-based risk assessment.
+- **Prep.AI** - Smarter Interview Preparation with Artificial Intelligence. 
 
 ---
 
