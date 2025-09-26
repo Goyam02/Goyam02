@@ -18,7 +18,6 @@
 - **Amazon Clone** - Amazon Clone is a full-fledged e-commerce web application built using Flask, featuring user authentication, product management, cart functionality, and secure checkout. 
 - **FlaskBlog** – A blog platform with CRUD operations, user authentication, database integration, and profile updates.
 - **Stream OTT Platform** – A full-stack OTT platform inspired by Netflix, featuring user authentication, video streaming, content recommendations, and an integrated chatbot for basic user queries 
-- **Weather App** – Fetches live weather updates via API.   
 
 ---
 
