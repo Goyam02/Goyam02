@@ -6,21 +6,6 @@
 
 ---
 
-### 🔭 Current Projects:  
-- **Book Recommendation System** – An LLM-powered book recommendation system using LangChain
-
----
-
-### 🏆 Completed Projects:  
-- **Notedly** - Notedly helps users transform their notes into summaries, flashcards, quizzes, and answers, making studying smarter and more efficient with AI.
-- **Prep.AI** - Smarter Interview Preparation with Artificial Intelligence.
-- **FinTech** - Provides users with insights into their financial health, spending trends, investment performance, and more, powered by AI-driven recommendations.
-- **Amazon Clone** - Amazon Clone is a full-fledged e-commerce web application built using Flask, featuring user authentication, product management, cart functionality, and secure checkout. 
-- **FlaskBlog** – A blog platform with CRUD operations, user authentication, database integration, and profile updates.
-- **Stream OTT Platform** – A full-stack OTT platform inspired by Netflix, featuring user authentication, video streaming, content recommendations, and an integrated chatbot for basic user queries 
-
----
-
 ### 👯 Open to Collaborations:  
 - **Software Testing** – Looking to collaborate on automation and manual testing projects.  
 - **Machine Learning Models** – Seeking help and ideas for developing intelligent AI/ML solutions.  
