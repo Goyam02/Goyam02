@@ -1,54 +1,145 @@
-## 👋 Hey there! I’m Goyam Jain  
+<!-- ============================================================
+     GOYAM02 — GitHub Profile README
+     Theme: Retro Terminal / CLI Aesthetic
+     ============================================================ -->
 
-🚀 **Tech Enthusiast | AI & ML Developer | Software Engineer**  
+<div align="center">
 
-💡 I have a passion for designing and developing innovative solutions, specializing in **AI, Machine Learning, and Web Development**. I enjoy building **scalable and efficient software** that solves real-world problems.  
+```
+ ██████╗  ██████╗ ██╗   ██╗ █████╗ ███╗   ███╗
+██╔════╝ ██╔═══██╗╚██╗ ██╔╝██╔══██╗████╗ ████║
+██║  ███╗██║   ██║ ╚████╔╝ ███████║██╔████╔██║
+██║   ██║██║   ██║  ╚██╔╝  ██╔══██║██║╚██╔╝██║
+╚██████╔╝╚██████╔╝   ██║   ██║  ██║██║ ╚═╝ ██║
+ ╚═════╝  ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝
+```
 
----
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&background=00000000&center=true&vCenter=true&width=640&lines=Initializing+profile...+%E2%96%88;Loading+skills.exe+%5BOK%5D;Mounting+%2Fdev%2Fpassion+%5BOK%5D;All+systems+operational+%E2%9C%94;Welcome+to+goyam02%40github+~%2F)
 
-### 👯 Open to Collaborations:  
-- **Software Testing** – Looking to collaborate on automation and manual testing projects.  
-- **Machine Learning Models** – Seeking help and ideas for developing intelligent AI/ML solutions.  
-
----
-
-### 🌱 Currently Learning:  
-- **Swift** – For iOS development.  
-- **Advanced C++ & C** – Deepening programming fundamentals.  
-
----
-
-### 💬 Ask Me About:  
-- **Automation Testing**  
-- **AI & ML Development**  
-- **Web Development (Flask, Django, React, JavaScript)**  
+</div>
 
 ---
 
-### 📫 Connect with Me:  
-📩 **Email:** goyamjain02@gmail.com  
-📌 Let’s build something amazing together! 🚀  
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jgoyam02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/goyam02) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/goyamjain02) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:goyamjain02@gmail.com) 
+![cmd](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=99999&color=00FF41&background=00000000&center=true&vCenter=true&width=420&lines=goyam02%40github+~+%24+cat+about_me.txt)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Render](https://img.shields.io/badge/render-%230046F7.svg?style=for-the-badge&logo=render&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Goyam02&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Goyam02&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Goyam02&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Goyam02&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Goyam02&limit=5&theme=dark&combine_all_yearly_contributions=true)
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  FILE: about_me.txt          ENCODING: UTF-8          LINES: 10 │
+├─────────────────────────────────────────────────────────────────┤
+│                                                                 │
+│  > Name     : Goyam                                             │
+│  > Handle   : @goyam02                                          │
+│  > Role     : Developer  |  Builder  |  Problem Solver          │
+│  > Status   : [■■■■■■■■■■] ONLINE — Actively coding             |        
+│                                                                 │
+│  > I write code that ships, break things that teach,            │
+│    and build things that matter.                                │
+│                                                                 │
+│  > Currently : Backend  |  GenAI  |  DSA                        |
+│  > Mantra    : "First solve the problem. Then write the code."  │
+│                                                                 │
+└─────────────────────────────────────────────────────────────────┘
+```
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Goyam02&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+
+![cmd](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=99999&color=00FF41&background=00000000&center=true&vCenter=true&width=380&lines=goyam02%40github+~+%24+neofetch)
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td valign="top">
+
+```
+        .:'
+    __ :'__         goyam02@github
+ .'`  `-'  ``.      ──────────────────────────────
+:          .-'      OS      ──▶  Linux / Windows 11
+:         :         Shell   ──▶  zsh + oh-my-zsh
+ :         `-;      Editor  ──▶  VS Code / Neovim
+  `.__.-.__.'       WM      ──▶  bash
+                    Uptime  ──▶  Since Day One ☕
+                    Memory  ──▶  Fueled by caffeine
+```
+
+</td>
+<td valign="top">
+
+```
+╔══════════════════════════════════════╗
+║  SKILLS.exe   ──  [LOADED]           ║
+╠══════════════════════════════════════╣
+║  JS / TS  ▓▓▓▓▓▓▓▓░░  80%            ║
+║  Python   ▓▓▓▓▓▓▓▓▓░  90%            ║
+║  React    ▓▓▓▓▓▓▓░░░  75%            ║
+║  C / C++  ▓▓▓▓▓▓▓▓░░  80%            ║
+║  Java     ▓▓▓▓▓▓▓▓░░  80%            ║
+║  Git      ▓▓▓▓▓▓▓▓▓▓  99%            ║
+║  Docker   ▓▓▓▓▓▓░░░░  60%            ║
+║  Linux    ▓▓▓▓▓▓▓▓░░  80%            ║
+╠══════════════════════════════════════╣
+║  [██████████] 100% COMMITTED         ║
+╚══════════════════════════════════════╝
+```
+
+</td>
+</tr>
+</table>
+
+
+---
+
+<div align="center">
+
+![cmd](https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&pause=99999&color=00FF41&background=00000000&center=true&vCenter=true&width=500&lines=goyam02%40github+~+%24+contact+--list+--protocol+all)
+
+</div>
+<pre>
+┌──────────────────────────────────────────────────────────────────┐
+│  ESTABLISHING CONNECTIONS...                                     │
+├──────────────────────────────────────────────────────────────────┤
+│                                                                  │
+│  $ ssh git@github.com:goyam02                                    │
+│    └──▶  <a href="https://github.com/goyam02">https://github.com/goyam02</a>              [OPEN]         │
+│                                                                  │
+│  $ ping linkedin.com --target /in/goyam02                        │
+│    └──▶  <a href="https://linkedin.com/in/goyam02">https://linkedin.com/in/goyam02</a>         [OPEN]         │   
+│                                                                  │
+│  $ curl --request COLLAB mailto:goyam02                          │
+│    └──▶  <a href="mailto:goyamjain02@gmail.com">goyamjain02@gmail.com</a>      [OPEN]                       │
+│                                                                  │
+│  LATENCY: &lt;24h  |  PACKET_LOSS: 0%  |  ALL PORTS: OPEN           │
+│                                                                  │
+└──────────────────────────────────────────────────────────────────┘
+</pre>
+
+<div align="center">
+
+> 💬 Open to collaborations, open-source contributions, and interesting ideas.
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  $ echo $SESSION_LOG                                             ║
+║  > Profile loaded successfully.                                  ║
+║  > Thanks for visiting                                           ║
+║  > Logging off... [CTRL+D]                                       ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+
+</div>
