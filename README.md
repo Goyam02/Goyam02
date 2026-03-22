@@ -55,40 +55,43 @@
 
 <br>
 
-<table align="center">
-<tr>
-<td valign="top">
+
+
 
 ```
-        .:'
-    __ :'__         goyam02@github
- .'`  `-'  ``.      ──────────────────────────────
-:          .-'      OS      ──▶  Linux / Windows 11
-:         :         Shell   ──▶  zsh + oh-my-zsh
- :         `-;      Editor  ──▶  VS Code / Neovim
-  `.__.-.__.'       WM      ──▶  bash
-                    Uptime  ──▶  Since Day One ☕
-                    Memory  ──▶  Fueled by caffeine
+       .────────.
+      | >_      |     goyam02@github
+      |         |     ──────────────────────────────
+      |_________|     OS      ──▶  MacOS / Linux / Windows 11 
+       \_______/      Shell   ──▶  zsh + oh-my-zsh
+    .───────────.     Editor  ──▶  VS Code / Neovim 
+   /             \    Field   ──▶  AI / ML / Backend
+  '───────────────'   Uptime  ──▶  Since Day One ☕
+                      Memory  ──▶  Fueled by caffeine
 ```
 
-</td>
-<td valign="top">
+
 
 ```
-╔══════════════════════════════════════╗
-║  SKILLS.exe   ──  [LOADED]           ║
-╠══════════════════════════════════════╣
-║  JS / TS  ▓▓▓▓▓▓▓▓░░  80%            ║
-║  Python   ▓▓▓▓▓▓▓▓▓░  90%            ║
-║  React    ▓▓▓▓▓▓▓░░░  75%            ║
-║  C / C++  ▓▓▓▓▓▓▓▓░░  80%            ║
-║  Java     ▓▓▓▓▓▓▓▓░░  80%            ║
-║  Git      ▓▓▓▓▓▓▓▓▓▓  99%            ║
-║  Docker   ▓▓▓▓▓▓░░░░  60%            ║
-║  Linux    ▓▓▓▓▓▓▓▓░░  80%            ║
-╠══════════════════════════════════════╣
-║  [██████████] 100% COMMITTED         ║
-╚══════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║ SKILLS.exe --list-all                                            ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║ [LANGUAGES]                                                      ║
+║  L Python • C/C++ • Java • JavaScript • SQL                      ║
+║                                                                  ║
+║ [AI_ML_&_DATA]                                                   ║
+║  L PyTorch • TensorFlow • LangChain • OpenCV • NLP               ║
+║  L RAG • NumPy • Pandas • Scikit-learn • CV                      ║
+║                                                                  ║
+║ [FRAMEWORKS_&_TOOLS]                                             ║
+║  L FastAPI • Flask • React • Next.js • Docker • Git              ║
+║  L MongoDB • PostgreSQL • Azure • Vercel • FFmpeg                ║
+║                                                                  ║
+║ [CURRENT_FOCUS]                                                  ║
+║  L GenAI • Computer Vision • Backend                             ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 </td>
@@ -115,7 +118,7 @@
 │    └──▶  <a href="https://linkedin.com/in/goyam02">https://linkedin.com/in/goyam02</a>         [OPEN]         │   
 │                                                                  │
 │  $ curl --request COLLAB mailto:goyam02                          │
-│    └──▶  <a href="mailto:goyamjain02@gmail.com">goyamjain02@gmail.com</a>      [OPEN]                       │
+│    └──▶  <a href="mailto:goyamjain02@gmail.com">goyamjain02@gmail.com</a>                   [OPEN]         │
 │                                                                  │
 │  LATENCY: &lt;24h  |  PACKET_LOSS: 0%  |  ALL PORTS: OPEN           │
 │                                                                  │
